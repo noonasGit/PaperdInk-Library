@@ -27,7 +27,7 @@
 
 /* Weather information */
 #define CITY    "*****" // City for weather
-#define COUNTRY "*****" // Country for weather
+#define COUNTRY "*****" // Country for weather *** PLEASE EXPLAIN WHAT TO PUT HERE, CA or CANADA does NOT work, there is no way to get a code ***
 #define OWM_ID  "*****" // Open weather map APP ID
 #define UNITS   "M"     // M for metric (celsius), I for Imperial (fahrenheit)
 
